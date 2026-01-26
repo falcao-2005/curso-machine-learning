@@ -1,0 +1,1 @@
+Sou um estudante de computação de uma faculdade federal do rio de janeiro, procurando ampliar as minhas habilidades na programação. Utilizo esse repositório para armazenar e registrar o meu aprendizado e evolução em Machine Learning.
